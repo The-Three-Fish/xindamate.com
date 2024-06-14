@@ -1,54 +1,52 @@
 ---
-title: Pricing
+title: 价格
 description: "meta description"
 draft: false
 plans:
-- title: Basic Plan
-  subtitle: Best For Small Individuals
-  price: 49
-  type: month
+- title: 一口价
+  subtitle: 见仁见智的选择
+  price: xxx
+  type: 次
   features:
-    - Express Service
-    - Customs Clearance
-    - Time-Critical Services
+    - 开始需要明确开发的全部功能
+    - 周期会相对长，要考虑未知的风险点
+    - 包含后期维护和支持
   button:
-    label: Get started for free
+    label: 开始吧
     link: "/contact"
 
-- title: Professional Plan
-  subtitle: Best For Professionals
-  price: 69
-  type: month
+- title: 按工时付费
+  subtitle: 推荐的选择
+  price: 120 
+  type: 小时
   recommended: true
   features:
-    - Express Service
-    - Customs Clearance
-    - Time-Critical Services
-    - Cloud Service
-    - Best Dashboard
+    - 经济实惠
+    - 灵活的时间安排
+    - 根据项目需求调整
   button:
-    label: Get started
+    label: 开始吧
     link: "/contact"
 
-- title: Business Plan
-  subtitle: Best For Large Individuals
-  price: 99
-  type: month
-  features:
-    - Express Service
-    - Customs Clearance
-    - Time-Critical Services
-  button:
-    label: Get started
-    link: "/contact"
+# - title: Business Plan
+#   subtitle: Best For Large Individuals
+#   price: 99
+#   type: month
+#   features:
+#     - Express Service
+#     - Customs Clearance
+#     - Time-Critical Services
+#   button:
+#     label: Get started
+#     link: "/contact"
 
 call_to_action:
-  title: Need a larger plan?
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur.
+  title: 心动不如行动
+  content: 好的idea需要细心的人做，我是细心的人，请拿着你的idea来找我吧
   image: '/images/cta.png'
   button:
     enable: true
-    label: "Contact Us"
+    label: "联系我们"
     link: "/contact"
     
 ---
